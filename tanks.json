@@ -1,0 +1,83 @@
+{
+    "tanks":[
+    {
+        "id": 0,
+        "name": "Insulated GRP Aboveground Tanks",
+        "description": 
+        "One-piece or sectional tanks of GRP 'sandwich' construction with up to 50mm insulation, can be used as main storage tanks, or supplied for use as a break tank within a building. Available in a wide range of sizes, capacities from 30 litres to 9,000 litres. Can be built to almost any capacity. For internal use these are most useful where restricted access (e.g. loft hatch or plant room doorway) prohibits the use of a one-piece version. For outdoor use sectional construction enables tanks of almost any size and shape to be built. All sectional tanks include installation, carried out by specialist fitters. Tanks can be supplied fitted with float switches, valve housings and inlet valves. We can also supply drip trays or bunds where required.",
+        "image": "tanks1.jpg"
+    },
+    
+    {
+        "id": 1,
+        "name": "18L Header Tanks",
+        "description": 
+        "A header tank is simply a tank which gives a gravity feed from high level down to WCs and other outlets at a lower level. The pressure from the tank is dependent on the height from the water in the tank to the outlet that it is supplying, so this should be borne in mind. Note: a height of 10m will provide 1 bar (or 14.5 psi) of pressure. 18-litre dual inlet header tank for domestic use. Complete with screened weir overflow and drip-tray.  This unit is fitted with two inlet valves, one of which is specially adapted to operate at low level.  Requires no power supply as it uses no float switches.  It is very compact and is ideal where the system is just supplying WCs.",
+        "image": "tanks2.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Dual Inlet Header Tanks",
+        "description": 
+        "Where a larger capacity is required we have several one-piece pre-fitted polyethylene header tanks with dual inlets and control float switches. These are supplied set-up and ready to install. The two float switches are set at different levels, one to control the pumped rainwater supply, the other controls the mains water back-up supply via a solenoid vavle type AA air gap (tundish). The 112-litre size is ideal for domestic use or small commercial projects supplying up to 10 WCs. The 225L and 450L versions are for larger projects.",
+        "image": "tanks3.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Break Tanks",
+        "description": 
+        "A break tank is similar to a header tank but is used in conjunction with a booster set, so does not have to be at a higher level, and is frequently used at ground or basement level in larger buildings. The water is then supplied to the required outlets, having been raised to the required pressure by the booster pump set. Where even larger volumes are required, or where a pre-insulated tank is demanded, we can supply tanks of any size in GRP. These can be fitted with float switches or sensors to control the mains water and rainwater feeds as required. We can also supply tanks with a Keraflo valve fitted into a raised housing on top of the tank. Such tanks can be either single piece or sectional, single or twin compartment, and can be supplied with drip trays.",
+        "image": "tanks4.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "RainTech® GRP tanks 40,000 to 90,000L",
+        "description": 
+        "Tough British made one-piece GRP tanks suitable for underground installation manufactured to BS 4994. These underground GRP tanks are strong and lightweight, and are easy to install in most ground conditions with concrete backfill for a secure permanent installation. Advantages include: Lightweight, Easy to install, Cost-effective, Supplied complete with fitted stainless steel flow calmer and unique anti-backflow overflow unit, Can be used in trafficked areas with cover slab, 10 year warranty. Sizes available: 40,000L, 45,000L, 50,000L, 55,000L, 60,000L, 65,000L, 70,000L, 75,000L, 80,000L and 90,000L.",
+        "image": "tanks5.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "RainTech® Underground GRP tanks",
+        "description": 
+        "Tough British made one-piece GRP tanks suitable for underground installation manufactured to BS 4994. These underground GRP tanks are strong and lightweight, and are easy to install in most ground conditions with concrete backfill for a secure permanent installation. Where ground conditions permit, a heavier duty version can be used with a granular backfill material. Advantages include: Lightweight, Easy to install, Cost-effective, Supplied complete with fitted stainless steel flow calmer and unique anti-backflow overflow unit, Can be used in trafficked areas with cover slab, 10 year warranty. Sizes available: 10,000L, 12,000L, 14,000L, 16,000L, 18,000L, 20,000L, 22,000L, 26,000L, 34,000L and 38,000L.",
+        "image": "tanks6.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "RainSava® Underground GRP tanks",
+        "description": 
+        "Tough British made one-piece GRP tanks suitable for underground installation manufactured to BS 4994. These underground GRP tanks are strong and lightweight, and are easy to install in most ground conditions with concrete backfill for a secure permanent installation. Where ground conditions permit, a heavier duty version can be used with a granular backfill material. Advantages include: Lightweight, Easy to install, Cost-effective, Supplied complete with fitted stainless steel flow calmer and unique anti-backflow overflow unit, Can be used in trafficked areas with cover slab, 10 year warranty. Sizes available: 1500L, 2400L, 3000L, 3500L, 4000L, 5000L, 6000L and 7500L",
+        "image": "tanks7.jpg"
+    },
+
+    {
+        "id": 7,
+        "name": "Low Profile Below Ground Plastic Tanks",
+        "description": 
+        "Rotationally moulded, one-piece, low profile plastic tanks suitable for shallow-dig underground installation. These tanks are extremely tough and durable, and are very simple to install using a granular backfill material. With the built-in high quality LineAr filter and stainless steel calmed inlet, Easy-Rain is easy to handle, easy to install, and easily beats the competition. All other connections are pre-fitted to make the installation as simple as possible. With only 52mm difference between inlet and overflow levels, tanks can be installed with minimum disruption to existing drainage runs. We are confident this is the best tank & filter combination available in the UK. Advantages include: Low-profile, shallow dig; Lightweight, very quick and easy to install; Easy to backfill with granular backfill; Can be installed in ground water up to 1/3 their depth; Available with or without built-in filter unit; Best choice for retro-fit; Easily linked together; 100% recyclable; 25 year warranty. Sizes available: 1500L, 3000L, 3000L tanks can be easily linked for increased capacity.",
+        "image": "tanks8.jpg"
+    },
+
+    {
+        "id": 8,
+        "name": "RainTech® FT tanks with integral filter",
+        "description": 
+        "Tough British made one-piece GRP tanks suitable for underground installation manufactured to BS 4994 with integral HYDRAPRO® FT filter unit built in to a separate access shaft on top of the tank. The tank overflows back through the filter unit, to keep the invert loss to only 80mm. The filter unit has the added benefit of an advanced self-cleaning mechanism as standard. These underground GRP tanks are strong and lightweight, and are easy to install in most ground conditions with concrete backfill for a secure permanent installation. Where ground conditions permit, a heavier duty version can be used with a granular backfill material. Supplied as a complete unit ready for quick installation. Advantages include: Minimal invert drop (80mm), Pre-fitted filter unit, Lightweight, Easy to install, Cost-effective, Supplied complete with fitted stainless steel flow calmer and unique anti-backflow overflow unit, Can be used in trafficked areas with cover slab, 10 year warranty. Sizes available: Any of our RainTech® or RainTech® Pro tanks can be supplied with this option.",
+        "image": "tanks9.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "Polyethylene (PE) Above Ground Tanks",
+        "description": 
+        "UK manufactured above ground plastic tanks for use above ground, available in a wide range of sizes. The smaller models are ideal for garden irrigation tanks, or even for retro-fit domestic systems. Larger above ground plastic tanks are suitable for small commercial systems, and for farmers who need water for washdown, livestock etc. We can supply these as bare tanks or with inlet and outlet connections as required. These are very popular with gardeners. A limited range of sizes are available as 'slimline' rectangular tanks, which are good where space is limited or for fitting against a wall (upright models) or beneath decking (flat models). Many more sizes are available in upright or horizontal cylindrical form, from 400 to 30,000 litres. Additionally tanks can be linked together for increased capacity.",
+        "image": "tanks10.jpg"
+    }
+    ]
+}

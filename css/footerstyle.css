@@ -1,0 +1,101 @@
+.footer p{
+    background: #1F2833;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 20px;
+    margin: 0px;
+}
+
+.footer nav{
+    margin-top: 25px;
+    background: #1F2833;
+}
+
+.footer nav:after{
+    content: '';
+    clear: both;
+    display: table;
+}
+
+#logo{
+    float: left;
+    line-height: 70px;
+    padding-left: 60px;
+}
+
+.footer nav ul{
+    float: right;
+    list-style: none;
+    margin-top: 13px;
+    margin-right: 40px;
+    margin-bottom: -5px;
+    position: relative;
+}
+
+.footer nav ul li{
+    float: left;
+    display: inline-block;
+    background: #1F2833;;
+    margin: 10px 5px;
+}
+
+.footer nav ul li a{
+    color: white;
+    text-decoration: none;
+    line-height: 70px;
+    font-size: 18px;
+    padding: 8px 15px;
+}
+
+.footer nav ul li a:hover{
+    color: cyan;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #33ffff,
+                0 0 5px #66ffff;
+}
+
+.footer nav ul ul li a:hover{
+    color: cyan;
+    box-shadow: none;
+}
+
+.footer nav ul ul{
+    position: absolute;
+    top: 90px;
+    opacity: 0;
+    visibility: hidden;
+    transition: top .3s;
+}
+
+.footer nav ul li:hover > ul{
+    top: 46px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.footer nav ul ul li{
+    position: relative;
+    margin: 0px;
+    width: 220px;
+    float: none;
+    display: list-item;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.footer nav ul ul li a{
+    line-height: 50px;
+}
+
+.contact{
+    background: #1F2833;
+    padding-bottom: 10px;
+}
+
+.contact p{
+    font-size: 20px;
+}
+
+.footer hr{
+    margin: 0px;
+}

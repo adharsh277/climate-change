@@ -1,0 +1,174 @@
+/* Thumbnail */
+
+.res_thumbnail p{
+    padding: 10px 50px 0px 50px;
+    font-size: 15px;
+    color: #1F2833;
+}
+
+.res_thumbnail h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #1F2833;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+/* Introduction */
+
+.res_intro p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_intro img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+/* Common rainwater uses for residential buildings */
+
+.res_uses h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #1F2833;
+    font-weight: bolder;
+}
+
+.res_uses p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+.res_uses img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.res_uses ul li{
+    color: #1F2833;
+    font-size: 20px;
+    display: list-item;
+    list-style: square;
+    width: 30%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 15px 0;
+
+}
+
+/* Explaining methods in residential area */
+
+.res_explain h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #1F2833;
+    font-weight: bolder;
+}
+
+.res_explain_methods p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_explain_element h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.res_explain_element p{
+    justify-content: center;
+    padding: 0 50px;
+    font-size: 20px;
+    color: #1F2833;
+}
+
+.res_explain_element img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.res_pros h2{
+    color: #1F2833;
+    font-weight: bolder;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* Adjust based on browser width */
+
+@media only screen and (min-width: 1300px){
+    h2{
+        margin: 0 425px;
+    }
+    
+    p{
+        margin: 0 425px;
+    }
+}
+
+@media only screen and (max-width: 1300px){
+    h1{
+        margin: 0 50px;
+    }
+
+    h2{
+        margin: 0 240px;
+    }
+
+    p{
+        margin: 0 240px;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    h1{
+        margin: 0 50px;
+    }
+
+    h2{
+        margin: 0 240px;
+    }
+
+    p{
+        margin: 0 240px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    h1{
+       margin: 0; 
+    }
+
+    h2{
+        margin: 0;
+    }
+    
+    p{
+        margin: 0;
+    }
+}

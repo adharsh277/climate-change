@@ -1,0 +1,129 @@
+{
+    "pumpControl":[
+        {
+            "id": 0,
+            "name": "E.Sybox Variable Speed Pump",
+            "description": 
+            "The E.Sybox from DAB Pumps is a variable speed pump of innovative design. The E.Sybox is a quiet and efficient variable speed unit with a very neat, compact and cost-effective ergonomic design. The pump is remarkably easy to install, set up and use and has a number of advanced normally only found on more expensive units.",
+            "image": "pumps&controls1.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 1,
+            "name": "E.Sybox Twin Variable Speed Booster Set",
+            "description": 
+            "An innovative new design concept from DAB pumps, the E.Sybox Twin is a quiet and efficient variable speed unit with a very neat, compact and cost-effective ergonomic design. The unit consists of two E.Sybox pumps with a base unit which contains the inlet / outlet manifold. The unit is easy to install and use and has a number of advanced normally only found on more expensive units.",
+            "image": "pumps&controls2.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 2,
+            "name": "2 Pump Fixed Speed",
+            "description": 
+            "Twin-pump fixed speed pressure sets suitable for a variety of purposes. Ideal for rainwater harvesting systems and for general pressure boosting. A wide range of pumps are available depending on pressure and flow rate desired. These are normally supplied complete with dual variable speed controllers, stainless steel manifolds with valves and expansion vessel, all mounted on a steel baseplate.",
+            "image": "pumps&controls3.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 3,
+            "name": "E-Box Control Panel",
+            "description": 
+            "The E-Box pump control panel is extremely versatile and reliable unit for controlling one or two pumps. It can be used for single phase, 230v 3-phase or 400v 3-phase motors up to 2.2kW and automatically selects the correct voltage. Its 3-inch illuminated display screen and push button control makes it very easy to set up and adjust. The digital menu can be password protected to avoid any unwanted tampering.",
+            "image": "pumps&controls4.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 4,
+            "name": "HYDRAPRO Controllers",
+            "description": 
+            "The HYDRAPRO Smart CPU range, developed by RHI WATER, offers total system control, giving the convenience of operating pumps, solenoid valves, booster set, UV unit and more, all from one central panel. Six models are available for single or multiple pumps, either fixed speed, soft-start or variable speed. HYDRAPRO® logic controlled units can also monitor the system and provide remote data displaying if required. Easy to set-up, fully programmable and with full BMS integration. Simple to use with illuminated screen and eight programmable buttons; more advanced models include a touch screen interface, and the option of remote access via web browser. HYDRAPRO panels have been developed specifically for commercial rainwater systems where advanced control and monitoring is required.",
+            "image": "pumps&controls5.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 5,
+            "name": "Control Panels",
+            "description": 
+            "A range of control panels are available for single and dual-pump systems, suitable for single or 3-phase fixed speed pumps. Designed to work with float switches, pressures switches, etc. with current overload protection, alarm signals and volt-free contacts.",
+            "image": "pumps&controls6.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 6,
+            "name": "Zen Ultra Low Energy Pump Controller",
+            "description": 
+            "The Zeta 02 is a simple but reliable pump controller suitable for automatically operating a wide range of pumps. It can be mounted directly on top of a surface pump, or remotely in-line for submersibles. Its advanced technology gives it an extremely low standby power consumption of only 0.2 watt; the lowest of any comparable product available. This unique feature saves up to 130kwh per year, giving a CO2 reduction of 97% over comparable products. It also features advanced diagnostics to adjust pump run-on time and starting frequency. Connects hydraulically and electrically to the pump, with pressure gauge and integral power socket for pump connection. Can be supplied with stainless steel mounting bracket for use when sited remotely from the pump. Pump switch-on pressure is 1.5 bar, maximum pressure 10 bar. 1″ bps connections.",
+            "image": "pumps&controls7.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 7,
+            "name": "2 Pump Variable Speed",
+            "description": 
+            "Twin-pump variable speed pressure sets suitable for a variety of purposes. Ideal for rainwater harvesting systems and for general pressure boosting where it is desirable to meet a range of flow rates whilst maintaining a constant pressure. A wide range of pumps are available depending on pressure and flow rate desired. These are normally supplied complete with dual variable speed controllers, stainless steel manifolds with valves and expansion vessel, all mounted on a steel baseplate.",
+            "image": "pumps&controls8.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 8,
+            "name": "E-Drive: Variable Speed Controller",
+            "description": 
+            "The E-Drive is a sophisticated inverter-drive controller. It can be connected to virtually any pump on the market, and is designed to maintain a set constant characteristic (pressure or flow). In this way the pump is operated only as and when needed without wasting energy, and thus extending its life. The E-Drive has a number of important features: it uses a soft start and soft stop to increase pump life and reduce absorption peaks, provides information on current consumption and power supply voltage, records operating hours and alarms, and provides dry-run protection. Two or more units can be linked together for controlling multiple pumps. The unit can either be mounted directly to the pump motor to use the motors' fan to cool the E-Drive, or it can be remotely wall-mounted using a special bracket incorporating a cooling fan. The aluminium body gives the E-drive extreme strength and easy cooling. The IP55 degree of protection makes it possible to install the E-drive in wet and dusty environments. The LCD display with backlight facilitates its use in dark areas, whilst an acoustic signal provides an immediate alarm warning.",
+            "image": "pumps&controls9.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 9,
+            "name": "Sirio Variable Speed Controller",
+            "description": 
+            "The Sirio electronic inline pump controller is based on inverter technology. A 230v single phase input is converted into a 3-phase output. The unit works by regulating the pump motor speed to provide a constant running pressure. This provides numerous benefits including reduced energy use, gradual start and stop (so reducing hammering), and dry-running protection with automatic reset function. Connects hydraulically and electrically to the pump and can be mounted directly on top of a surface pump, or remotely in-line for submersibles. Two units can be linked together for dual pump control.",
+            "image": "pumps&controls10.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 10,
+            "name": "Flooded Suction Pumps",
+            "description": 
+            "The Matrix range of pumps from EBARA are high quality, multi-stage units with a robust yet compact construction. We can supply a wide range of models to meet individual capacity and pressure requirements. The units are available as bare pumps or with integral controllers, either fixed or variable speed. Matrix pumps are WRAS approved and available with flow rates up to 450 l/min and from 2 to 9 stages depending on pressure requirements.",
+            "image": "pumps&controls11.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 11,
+            "name": "Submersible Pumps - Stainless Steel",
+            "description": 
+            "The side inlet suction port (1.25″ bsp) allows easy fitting of fixed or floating suction filters, essential for harvesting rainwater. On direct commercial systems, two pumps are used together to provide duty / standby performance. A range of models is available with flow rates up to 120 l/min. All can be supplied with rubber base mounts, a strong 4.5m polypropylene lifting cord and a 20m pre-fitted cable. With their compact design and the ability to lift up to 60m+ these pumps are also very suitable for use in wells.",
+            "image": "pumps&controls12.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 12,
+            "name": "Self-priming Suction Pumps",
+            "description": 
+            "The Aspri range of suction pumps from ESPA are quiet running, multistage centrifugal units of brass and stainless steel construction. They are available in three versions suitable for a range of domestic and commercial applications, and can be supplied with automatic fixed speed controller, variable speed inverter control, or as a bare pump. These pumps are reliable and durable; ideal for rainwater harvesting and pressure boosting.",
+            "image": "pumps&controls13.jpg",
+            "type": "pumpControl"
+        },
+
+        {
+            "id": 13,
+            "name": "Self-priming Pumps",
+            "description": 
+            "Submersible Automatic Pumps are ideal for the delivery of clean water for garden and landscape use. They are self priming and have an intelligent built-in controller that senses the demand for water. This automatically switches the pump on and off when a tap is opened or closed. There is also built-in guaranteed protection against dry running, and an automatic re-setting function.",
+            "image": "pumps&controls14.jpg",
+            "type": "pumpControl"
+        }
+    ]
+}
