@@ -1,0 +1,30 @@
+{
+    "water_sterilisation": [
+        {
+            "id": 0,
+            "name": "UV Disinfection",
+            "description": 
+            "If collected rainwater is to be used in domestic situations for drinking, showers, hand-washing, etc, or commercially in pressure washers for example, it must first be treated in some way. One of the best methods of water disinfection is UV disinfection; it's safe, reliable and energy-efficient. The water to be treated must be free of particles, so it is usually necessary to fit pre-filters before the UV unit. These may consist of wound string cartridges or polypropylene bag filters and will remove all particles down to 5 microns. The rainwater then flows through the UV unit where it pass through a tube surrounded by UV light. The light destroys the DNA of any microorganisms within the water, rendering them harmless. This process is instant, effective and reliable. No chemicals are involved and the taste of the water is not affected. However, UV sterilisation cannot remove discoloration, or any existing bad taste.",
+            "image": "water_sterilisation1.jpg",
+            "type": "Water Sterilisation"
+        },
+
+        {
+            "id": 1,
+            "name": "Pre-UV Treatment",
+            "description": 
+            "The process of UV (Ultra Violet) light treatment requires water to pass across a UV lamp. The UV light destroys bacteria and other pathogens in the water in order to make it safe for potable use. This process requires the water to be completely free of particles. Any particles in the water can cast a shadow in which bacteria can still survive, so a very fine pre UV filter is required. Removing the particles prior to UV treatment is fundamental for the process to work. The water must be filtered to 5 microns before it is ready to go through the UV filter. There are a number of different pre UV filter units available, and these can be single, dual or triple stage. The Hydra Rainmaster pre UV filter unit shown has the benefit of a back-washing valve on the first stage that is used to reject the accumulated debris. This can be manually operated, or automated by combining with a solenoid valve and timed power supply.",
+            "image": "water_sterilisation2.jpg",
+            "type": "Water Sterilisation"
+        },
+
+        {
+            "id": 2,
+            "name": "Carbon Filtration",
+            "description": 
+            "Carbon filtration is used where taste or odour of a water supply is an issue and can be either a carbon block, or in the form of granular activated carbon. GAC consists of charcoal that has been heated to a very high temperature. Each granule is porous and has a very large surface area (500m2 per gram). As water passes through the charcoal, the granules trap the molecules of pollutants and chemicals that taint the water such as chlorine and volatile organic compounds. Carbon is extremely effective at improving taste, and reducing any smell in water. A GAC or carbon block can be added to a pre UV filter and is worth considering if the water is likely to be consumed. It is recommended that carbon filters should be changed once a year or more frequently where there is any hint of change in smell or taste. Carbon filters do not kill bacteria so are part of the pre treatment process.",
+            "image": "water_sterilisation3.jpg",
+            "type": "Water Sterilisation"
+        }
+    ]
+}

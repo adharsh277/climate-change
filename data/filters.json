@@ -1,0 +1,35 @@
+{
+    "filters":[
+        {
+            "id": 0,
+            "name": "Wisy LineAr Filters",
+            "description": "The new Wisy LineAr Filter is a low-profile in-tank rainwater filter from Wisy AG. Finely engineered from high quality stainless steel, LineAr sets a new standard for in-tank filters with its' 380-micron mesh. The unique design of the filter element exploits the adhesion principle as used in the well-known Wisy Vortex filters. Like the vortex filters, the mesh is a near vertical surface, so debris is easily rinsed off by the action of the flowing water. This gives a vastly improved performance over other in-tank filters that have a near horizontal mesh, which is prone to accumulate leaves and other debris. The LineAr filter is simple to fit and easy to maintain. The long lifting handle allows it to be easily removed from ground level, with no need to enter the tank.",
+            "image": "filters1.jpg",
+            "type": "Filters"
+        },
+
+        {
+            "id": 1,
+            "name": "Wisy Vortex Filters",
+            "description": "The WISY VORTEX filter is unique with its patented design that uses the principle of adhesion, where water 'sticks' to a smooth surface, in this case the outer layer of a vertical cylinder. This process causes the water to 'pull' through the fine mesh inner layer, leaving behind any leaves, insects and any other particles greater than 0.28mm. The filtered debris then either falls straight through centre of the filter, or is washed off by the action of the flowing water. This unique design avoids the possibility of leaves etc. breaking down on the filter surface or within the tank. This also means that the debris is simply washed away to the storm drain and out of harms way. The VORTEX filter also oxygenates the water to keep quality at its peak and inhibit the growth of anaerobic bacteria, which can cause the water to develop bad odours.",
+            "image": "filters2.jpg",
+            "type": "Filters"
+        },
+
+        {
+            "id": 2,
+            "name": "Hydrapro Filters",
+            "description": "HYDRAPRO FT filters are perfect for use where a low invert loss is required. With a reduced fall of only 80mm between inlet and waste outlet, they can be used in many situations where other filters won't work, and limiting the impact on site drainage levels. It is designed to be installed within a chamber (e.g. concrete rings). Alternatively we can supply the filter already fitted to the underground tank if required. The HYDRAPRO FT filter also incorporates an optional self-cleaning function. Built in to the body of the unit, a laser-cut slot emits an unbroken jet of water across the filter surface, washing any debris into the waste outlet. This significantly reduces maintenance. This function can be simply manually activated or automated using a motorised valve and timer control. (If the system also using a HYDRAPRO control panel this function is built in) Manufactured entirely from 316 stainless steel, the HYDRAPRO filters are versatile and adaptable for a range of installation conditions, and can be used above or below ground. Where required, a stainless steel cover with neoprene seal can be supplied.",
+            "image": "filters3.jpg",
+            "type": "Filters"
+        },
+
+        {
+            "id": 3,
+            "name": "Wisy Downpipe Filters",
+            "description": "Downpipe Filters are the simplest method of collecting rainwater as it flows through the vertical downpipe, and are especially suitable for above-ground tanks. The unique construction of the vertical fine filter rinses dirt particles, leaves, insects etc. away into the drain, leaving clean filtered water to flow into your tank. Once the filter mesh is thoroughly wetted, 95% of the rainwater passes through into the tank. By removing the organic matter, and oxygenating the water, the stored rainwater remains clean and sweet-smelling. Maintenance is quick and easy; the filter element can be simply cleaned with a soft brush, or in the dishwasher.",
+            "image": "filters4.jpg",
+            "type": "Filters"
+        }
+    ]
+}

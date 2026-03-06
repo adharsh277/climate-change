@@ -1,0 +1,84 @@
+{
+    "accessories": [
+        {
+            "id": 0,
+            "name": "Keraflo Type K",
+            "description": 
+            "The 'Type K' pictured here is suitable for tanks with or without raised valve housings and is ideal for pumped water lines (e.g. rainwater). The puncture-proof float eliminates stress on the tank wall and gives precise hammer-free opening and closing. The 'up and over' discharge facilites air-gap compliance.Available in sizes from 1/2” to 2″ bsp.",
+            "image": "accessories1.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 1,
+            "name": "Keraflo Type KB",
+            "description": 
+            "The 'Type KB' valve provides a fully variable delayed action with precise opening and closing levels. It is especially suitable for use on a mains water feed into a break tank, so is ideal for rainwater harvesting systems of the indirect type. Fitted into an appropriate raised housing, the 'KB' type valve provides a type AB air gap in compliance with the Water Regulations requirements for backflow prevention.The opening and closing levels of the valve are infinitely variable up to 1.8 metres depth and can be adjusted quickly without the use of any tools.Available in sizes from 3/4” to 3″ bsp.",
+            "image": "accessories2.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 2,
+            "name": "Overflow Traps",
+            "description": 
+            "The Multisiphon overflow trap is a unique unit from WISY® designed specifically for use in rainwater storage tanks. It is fitted inside the tank and connected to a short stub pipe for joining to standard 100mm drain.The unit incorporates several important features:A water trap to prevent bad odours from the drainage system, A surface skimmer to effectively remove floating debris, A backflow prevention device, An optional vermin barrier. The unit is effectively a 'U' bend providing a water seal in the same way as a WC pan or waste trap. This acts as a barrier to unpleasant smells from the drain that connects to the overflow, which could otherwise taint the water. It also very effectively removes floating debris from the surface of the water, due to the “skimming” design of the unit at the top.The most important function, however, is to act as an anti-backflow device to prevent a surcharge from the drains entering back in to the tank and contaminating the stored water.",
+            "image": "accessories3.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 3,
+            "name": "Pipe Marking",
+            "description": 
+            "Pipes that are used to convey rainwater must be appropriately marked in order to avoid any confusion or cross-connection between wholesome and non-wholesome supplies.",
+            "image": "accessories4.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 4,
+            "name": "Mains Top-ups",
+            "description": 
+            "Most rainwater harvesting systems require a means of switching to an alternative source, in the event of the system running out of rainwater. However, there are strict regulations governing the way that this is done, in order to eliminate any risk of non-potable water being able to siphon back into the mains supply. This is achieved through the use of an air gap that the mains water must pass through before entering the tank. Our special mains water top-up units are designed specifically for this purpose.For direct systems, where the mains water is fed to the rainwater tank itself, we supply a special assembly that incorporates a tundish. This provides the necessary air gap to comply with regulations, but means that the water flowing out of the tundish is no longer under pressure and must rely on gravity to reach its destination. For this reason the assembly must be at a level higher than the top of the tank that it is supplying; it must also be located indoors.The water supply into the tundish is regulated by a solenoid valve which is connected electrically to a float switch. As the water level in the tank falls, the float switch drops and opens the solenoid, thus allowing the mains water to pass through the tundish into a pipe, which then leads back to the tank. As the tank water level rises again, the float switch lifts and shuts off the solenoid. When used with our precision float switches, the amount of mains water used in this way is kept to a minimum.Each assembly also includes a flexible braided connecting hose for ease of installation, and an isolating valve with integral dirt strainer to protect the solenoid valve from any foreign matter. The stainless steel tundish incorporates a laminar flow device to ensure that a vertical splash-free column of water passes through.These mains top up units can also be used in indirect systems for filling a header or break tank in the same way.Five models are available, to fit following pipe sizes: 1/2″, 3/4″, 1″, 11/2″ and 2″",
+            "image": "accessories5.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 5,
+            "name": "Calmed Inlets",
+            "description": 
+            "High quality stainless steel flow-calming inlets designed to smooth the flow of water entering the tank, thereby avoiding disturbance of any fine sediments at the bottom of the tank. Fitted to the open end of the vertical inlet pipe at the base of the tank, the device also prevents disturbance of any float switch or sensor etc.The expanded steel mesh diffuses the flow and forces it upwards into the body of water.Calmed inlet diffusers are available to fit 100mm, 150mm and 200mm ID pipes.",
+            "image": "accessories6.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 6,
+            "name": "Float Switches",
+            "description": 
+            "Float Switches are attached to a pivot bracket fitted to a stainless steel mounting clamp. These are designed to be fitted to the body of a submersible pump or an appropriate inlet pipe.The on and off levels of the switch are precise, as the switch remains in a fixed position. This is particularly useful when the switch is controlling the filling levels for topping up a tank with mains water.By limiting the movement of the switch, the level of water is easily controlled (typically 90mm level rise), thereby leaving the maximum tank volume free to collect the next rainfall event.Switches are normally fitted to the body of a submersible pump, or if used within a break tank, fitted to inlet pipework. They available in two versions;Red float for dry-run protection (when it drops, it switches the pump off)Yellow float for mains water top-up (when it drops, it switches the mains water top-up on, then off again when switch rises.) Approximately 9cm difference in water levels between on and off. Could also be used for emptying a tank.Switches are available with clamps to to fit 50mm, 100mm and 150mm diameters, and with either 3m, 10m or 20m pre-fitted cables.",
+            "image": "accessories7.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 7,
+            "name": "Anti-Backflow Valves",
+            "description": 
+            "One-way backflow protection valves for preventing the backflow of water through pipes. Simple and reliable units for protecting rainwater tanks, filter units etc. from the back-flow of undesirable fluids, e.g. where an overflow is connected to a combined sewer.Available to fit 100mm, 150mm or 200mm pipe diameters and in two versions; in-line and terminal. The in-line version is for fitting into the pipe run, and must have an access point above it for maintenance. The terminal version is for fitting to an open pipe end e.g. where a pipe discharges into a ditch or chamber.",
+            "image": "accessories8.jpg",
+            "type": "Accessories"
+        },
+
+        {
+            "id": 8,
+            "name": "Tank Gauges",
+            "description": 
+            "Simple pneumatic tank contents gauge with easy to read dial face.The gauge can be sited within 50 metres of the tank. A thin tube connects it to a sensor in the base of the tank. By pumping the tube full of air, the gauge indicates the weight of water pressing on the sensor.Once the unit is calibrated, the dial then indicates the fullness of the tank in percentage terms.Two models are available; the manual version with hand primer, or the electric version with button operated pump.",
+            "image": "accessories8.jpg",
+            "type": "Accessories"
+        }
+    ]
+}
