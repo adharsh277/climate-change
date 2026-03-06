@@ -1,0 +1,194 @@
+/* Thumbnail text  */
+
+#text{
+    position: relative; 
+    transition: .5s ease;
+    opacity:0;
+}
+  
+.thumbnail:hover #text{
+    opacity: 1;
+}
+
+/* Body */
+
+.body img{
+    width: 100%;
+}
+
+.body h1{
+    text-align: center;
+    margin-top: -.4cm;
+    position: inherit;
+    color: white;
+    font-weight: bolder;
+}
+
+#slogan{
+    text-align: center;
+    margin-top: -2.55cm;
+    position: inherit;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.body p{
+    position: inherit;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: -.25cm;
+}
+
+/* Introduction */
+
+.intro h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #1F2833;
+}
+
+.intro p{
+    font-size: 20px;
+    text-align: left;
+    color: #1F2833;
+}
+
+.intro img{
+    margin-top: 40px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* All rainwater benefits */
+
+.benefits h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: #1F2833;
+}
+
+.benefits ul li{
+    color: #1F2833;
+    font-size: 20px;
+    display: list-item;
+    width: 30%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.benefits img{
+    margin-top: 50px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Some harvesting techniques info */
+
+.methods h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: #1F2833;
+}
+
+.methods img{
+    margin: 40px 0px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.methods p{
+    font-size: 20px;
+    text-align: left;
+    color: #1F2833;
+}
+
+/* Members info */
+
+.members h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 15px;
+    color: #1F2833;
+}
+
+.members p{
+    padding: 5px 20px;
+    display: inline-block;
+    font-size: 20px;
+    color: #1F2833;
+    border: #1F2833;
+    border-radius: 20px;
+    border-style: solid;
+}
+
+/* Adjust based on browser width */
+
+@media only screen and (min-width: 1300px){
+    .intro p{
+        padding: 0 470px;
+    }
+
+    .methods p{
+        padding: 0 460px;
+    }
+
+    .members p{
+        margin: 25px 0 5px 32px;
+    }
+}
+
+@media only screen and (max-width: 1300px){
+    .intro p{
+        padding: 0 260px;
+    }
+
+    .methods p{
+        padding: 0 258px;
+    }
+
+    .members p{
+        margin-top: 25px;
+        margin-bottom: 5px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        width: 500px;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .intro p{
+        padding: 0 244px;
+    }
+
+    .methods p{
+        padding: 0 242px;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .intro p{
+        padding: 0 150px;
+    }
+
+    .methods p{
+        padding: 0 100px;
+    }
+}

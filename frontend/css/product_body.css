@@ -1,0 +1,18 @@
+/* Body */
+
+body{
+    font-size: 20px;
+    color: #1F2833;
+    text-align: center;
+}
+
+/* Tittle text */
+
+.title_text{
+    background-color: gainsboro;
+    border: solid 2px;
+    border-radius: 50%;
+    padding: 1em;
+    margin: 1em auto;
+    text-align: center;
+}
