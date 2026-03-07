@@ -6,6 +6,7 @@
 ## 📁 Project Structure
 
 ```
+
 .
 ├── frontend/           # Frontend code (HTML, CSS, JavaScript)
 │   ├── assets/        # Media assets
