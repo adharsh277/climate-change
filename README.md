@@ -63,10 +63,10 @@ JSON-based data integration
 🔗 Project Links
 
 Live Project:
-https://aditerx.github.io/Rainwater-Harvesting/
+
 
 Project Report:
-https://github.com/Aditerx/Rainwater-Harvesting/tree/Web/report
+
 
 💡 Purpose of the Project
 
