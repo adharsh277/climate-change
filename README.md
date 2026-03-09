@@ -46,14 +46,6 @@ Bikas
 
 Yash
 
-Nguyen Phat Tai – Student1316806
-
-Huynh Ngoc Thanh – Student1339033
-
-Nguyen Hai Hoang – Student1339262
-
-Nguyen Pham Thi Cam Tu – Student1335967
-
 🌍 Project Features
 
 Informational pages about rainwater harvesting
